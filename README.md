@@ -1,2 +1,3 @@
-# week-3-assignment-1
-week3 assignment 1/Anushka Dhaka_02401012025
+Name: Anushka Dhaka
+Enrollment Number: 02401012025
+College: IGDTUW
